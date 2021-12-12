@@ -1,0 +1,35 @@
+body{
+	background-color: #acc993;
+
+}
+
+
+
+
+
+
+img{
+width: 30%;
+float:left;
+margin: 1%;
+
+
+
+}
+
+.jumbotron{
+font-family: 'Raleway';
+	color: #d4cbcb;
+
+
+
+
+
+}
+.container{
+	padding-top: 10%;
+}
+.navbar-brand{
+	font-family: 'Indie Flower';
+
+}
